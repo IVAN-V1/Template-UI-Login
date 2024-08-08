@@ -1,6 +1,13 @@
 # Template Ui Login
+# Español
+Este repositorio contiene una plantilla moderna  de inicio de sesión de una aplicación. Está diseñada para ser fácilmente personalizable e integrarse sin problemas en tus proyectos.
 
-Este es un pequeña plantilla de diseño de un login.
+# Inglish
+This repository contains a modern login template for an application. It is designed to be easily customizable and seamlessly integrated into your projects.
+
+## Web Demo
+
+[![Web Demo](https://img.shields.io/badge/Web%20Demo-Click%20Here-blue?style=for-the-badge)](https://template-ui-login.vercel.app/)
 
 ## Capturas
 
@@ -11,6 +18,3 @@ Este es un pequeña plantilla de diseño de un login.
 | -------- |
 | ![Ejemplo de imagen](./captura/3.jpg) |
 
-## Web Demo
-
-[![Web Demo](https://img.shields.io/badge/Web%20Demo-Click%20Here-blue?style=for-the-badge)](https://template-ui-login.vercel.app/)
